@@ -1,7 +1,7 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+id: sparkles-hello-world-2
+name: Test
+tagline: Yo, stuff
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
