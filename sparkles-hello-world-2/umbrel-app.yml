@@ -1,10 +1,10 @@
 manifestVersion: 1
 id: sparkles-hello-world-2
-name: LnbitsLatest
+name: LNbits
 tagline: Yo, stuff
 icon: https://svgur.com/i/mvA.svg
 category: Development
-version: "1.0.0"
+version: "0.9.5"
 port: 4000
 description: >-
   Add your app's description here.
