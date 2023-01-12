@@ -1,16 +1,16 @@
 manifestVersion: 1
 id: sparkles-hello-world-2
 name: LNbits
-tagline: Yo, stuff
-icon: https://svgur.com/i/mvA.svg
+tagline: LNBits Version 0.9.5
+icon: https://getumbrel.github.io/umbrel-apps-gallery/lnbits/icon.svg
 category: Development
 version: "0.9.5"
 port: 4000
 description: >-
-  Add your app's description here.
+  Latest Version of LNBits
 
 
-  You can also add newlines!
+  Yay.
 
 developer: Umbrel
 website: https://umbrel.com
@@ -19,9 +19,9 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://getumbrel.github.io/umbrel-apps-gallery/lnbits/1.jpg
+  - https://getumbrel.github.io/umbrel-apps-gallery/lnbits/2.jpg
+  - https://getumbrel.github.io/umbrel-apps-gallery/lnbits/3.jpg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies:
