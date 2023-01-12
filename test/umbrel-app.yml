@@ -1,6 +1,6 @@
 manifestVersion: 1
-id: lnbits
-name: LNBits
+id: test
+name: test
 tagline: LNBits test
 icon: https://svgur.com/i/mvA.svg
 category: Development
