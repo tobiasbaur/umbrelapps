@@ -1,11 +1,11 @@
 manifestVersion: 1
-id: lnbits
+id: sparkles-hello-world-2
 name: LNbits
 tagline: Multi-user wallet management system
 icon: https://getumbrel.github.io/umbrel-apps-gallery/lnbits/icon.svg
 category: Finance
 version: "0.9.5"
-port: 3007
+port: 4000
 description: >-
   LNbits is a simple multi-user and account system for Lightning
   Network that can be used for creating separate Lightning wallets for friends
