@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: fhem
+id: sparkles-fhem
 name: FHEM
 tagline: Home automation
 icon: https://fhem.de/www/images/default/fhemicon.png
