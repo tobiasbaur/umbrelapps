@@ -1,0 +1,30 @@
+manifestVersion: 1
+id: fhem
+name: FHEM
+tagline: Home automation
+icon: https://fhem.de/www/images/default/fhemicon.png
+category: Automation
+version: "6.1.0"
+port: 8083
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: Umbrel
+website: https://fhem.de/
+submitter: T.B.
+submission: https://fhem.de/
+repo: https://fhem.de/
+support:https://forum.fhem.de/
+gallery:
+  - https://fhem.de/pgm2-1.png
+  - https://fhem.de/tirreG.jpg
+  - https://fhem.de/InfoPanel.png
+releaseNotes: >-
+ FHEM Home Automation
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
