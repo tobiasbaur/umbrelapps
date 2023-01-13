@@ -3,10 +3,12 @@ version: "3.7"
 services:
 
   app_proxy:
+    volumes:
+      - ${APP_DATA_DIR}/data:/data
     environment:
       # The format here is: <app-id>_<docker-service-name>_1
       APP_HOST: fhem_server_1
       APP_PORT: 8083
     
   server:
-    image: fhem/fhem
+    image: ghcr.io/fhem/fhem/fhem-docker:bullseye
