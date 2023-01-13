@@ -5,7 +5,7 @@ tagline: Home automation
 icon: https://fhem.de/www/images/default/fhemicon.png
 category: Automation
 version: "6.1.0"
-port: 8083
+port: 8093
 description: >-
   Add your app's description here.
 
